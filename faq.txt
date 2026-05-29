@@ -1,0 +1,10 @@
+Q: What knowledge and work background is required for the advanced class?
+A: We hope students have basic Python knowledge and traditional machine learning modeling experience (such as linear regression, logistic regression, tree-based models, XGBoost, etc.).
+Q: How many people are in each class? What is the class format?
+A: We offer small class sizes for each session, with 5-12 new students. Most of the class time involves teachers providing individual feedback on pre-class assignments, and we send scholarships based on completion. Students who complete assignments conscientiously usually receive $50-100. Returning students join to work on projects together, usually just a few people. Teachers don't grade their assignments and there are no scholarships, but we may send project bonuses for excellent projects. All our projects are conducted according to startup standards.
+Q: Are there trial classes?
+A: Yes! You can access our trial class here: https://www.youtube.com/watch?v=CqvQjghuv-I&list=PLTrXzjvaj80YMJQVzphciMIalMmECx3Dy&index=22
+Additionally, our public resources are organized at: https://www.youtube.com/playlist?list=PLTrXzjvaj80YMJQVzphciMIalMmECx3Dy
+Including demos from past students, industry presentations, etc.
+Q: Is there additional tutoring outside of class?
+A: Yes. We have dedicated extracurricular tutoring, including interview skills, resume improvement, promotion and salary increase, and career planning.
